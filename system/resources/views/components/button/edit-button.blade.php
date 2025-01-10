@@ -1,0 +1,1 @@
+<a href="{{ url($url, $id) }}/edit" type="submit" style="padding: 6px 12px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;"><i class="fa fa-edit"></i> Edit</a>
